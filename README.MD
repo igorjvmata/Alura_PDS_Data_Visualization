@@ -2,7 +2,7 @@
 ## Formação: Python para Data Science
 ### Data Visualization: Explorando com Seaborn
 
-#### 01 - Importando e traduziondo os dados
+#### 01 - Importando e traduzindo os dados
   - Importamos um arquivo chamado tips.csv e armazenamos numa variável chamada dados
   - Conhecemos os dados que vamos analisar
   - Por questões didáticas, decidimos traduzir nossa base de dados do inglês para o português
